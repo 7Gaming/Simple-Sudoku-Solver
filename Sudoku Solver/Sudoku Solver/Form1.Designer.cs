@@ -133,9 +133,9 @@
             this.box1.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.box1.Location = new System.Drawing.Point(22, 18);
             this.box1.Name = "box1";
-            this.box1.Size = new System.Drawing.Size(44, 51);
+            this.box1.Size = new System.Drawing.Size(46, 51);
             this.box1.TabIndex = 1;
-            this.box1.Text = "  ";
+            this.box1.Text = "7";
             this.box1.Click += new System.EventHandler(this.Box_Click);
             this.box1.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -172,9 +172,9 @@
             this.box4.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.box4.Location = new System.Drawing.Point(202, 18);
             this.box4.Name = "box4";
-            this.box4.Size = new System.Drawing.Size(44, 51);
+            this.box4.Size = new System.Drawing.Size(46, 51);
             this.box4.TabIndex = 4;
-            this.box4.Text = "  ";
+            this.box4.Text = "8";
             this.box4.Click += new System.EventHandler(this.Box_Click);
             this.box4.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -185,9 +185,9 @@
             this.box5.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.box5.Location = new System.Drawing.Point(261, 18);
             this.box5.Name = "box5";
-            this.box5.Size = new System.Drawing.Size(46, 51);
+            this.box5.Size = new System.Drawing.Size(44, 51);
             this.box5.TabIndex = 5;
-            this.box5.Text = "6";
+            this.box5.Text = "  ";
             this.box5.Click += new System.EventHandler(this.Box_Click);
             this.box5.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -200,7 +200,7 @@
             this.box6.Name = "box6";
             this.box6.Size = new System.Drawing.Size(46, 51);
             this.box6.TabIndex = 6;
-            this.box6.Text = "3";
+            this.box6.Text = "2";
             this.box6.Click += new System.EventHandler(this.Box_Click);
             this.box6.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -211,9 +211,9 @@
             this.box7.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.box7.Location = new System.Drawing.Point(382, 18);
             this.box7.Name = "box7";
-            this.box7.Size = new System.Drawing.Size(44, 51);
+            this.box7.Size = new System.Drawing.Size(46, 51);
             this.box7.TabIndex = 7;
-            this.box7.Text = "  ";
+            this.box7.Text = "6";
             this.box7.Click += new System.EventHandler(this.Box_Click);
             this.box7.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -224,9 +224,9 @@
             this.box8.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.box8.Location = new System.Drawing.Point(441, 18);
             this.box8.Name = "box8";
-            this.box8.Size = new System.Drawing.Size(46, 51);
+            this.box8.Size = new System.Drawing.Size(44, 51);
             this.box8.TabIndex = 8;
-            this.box8.Text = "7";
+            this.box8.Text = "  ";
             this.box8.Click += new System.EventHandler(this.Box_Click);
             this.box8.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -237,9 +237,9 @@
             this.box9.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.box9.Location = new System.Drawing.Point(498, 18);
             this.box9.Name = "box9";
-            this.box9.Size = new System.Drawing.Size(44, 51);
+            this.box9.Size = new System.Drawing.Size(46, 51);
             this.box9.TabIndex = 9;
-            this.box9.Text = "  ";
+            this.box9.Text = "1";
             this.box9.Click += new System.EventHandler(this.Box_Click);
             this.box9.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -250,9 +250,9 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(498, 78);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(46, 51);
+            this.label1.Size = new System.Drawing.Size(44, 51);
             this.label1.TabIndex = 18;
-            this.label1.Text = "2";
+            this.label1.Text = "  ";
             this.label1.Click += new System.EventHandler(this.Box_Click);
             this.label1.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -276,9 +276,9 @@
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(382, 78);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(44, 51);
+            this.label3.Size = new System.Drawing.Size(46, 51);
             this.label3.TabIndex = 16;
-            this.label3.Text = "  ";
+            this.label3.Text = "3";
             this.label3.Click += new System.EventHandler(this.Box_Click);
             this.label3.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -289,9 +289,9 @@
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(320, 78);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(44, 51);
+            this.label4.Size = new System.Drawing.Size(46, 51);
             this.label4.TabIndex = 15;
-            this.label4.Text = "  ";
+            this.label4.Text = "5";
             this.label4.Click += new System.EventHandler(this.Box_Click);
             this.label4.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -341,9 +341,9 @@
             this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.Location = new System.Drawing.Point(81, 78);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(46, 51);
+            this.label8.Size = new System.Drawing.Size(44, 51);
             this.label8.TabIndex = 11;
-            this.label8.Text = "6";
+            this.label8.Text = "  ";
             this.label8.Click += new System.EventHandler(this.Box_Click);
             this.label8.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -367,9 +367,9 @@
             this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label10.Location = new System.Drawing.Point(498, 138);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(44, 51);
+            this.label10.Size = new System.Drawing.Size(46, 51);
             this.label10.TabIndex = 27;
-            this.label10.Text = "  ";
+            this.label10.Text = "8";
             this.label10.Click += new System.EventHandler(this.Box_Click);
             this.label10.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -382,7 +382,7 @@
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(46, 51);
             this.label11.TabIndex = 26;
-            this.label11.Text = "6";
+            this.label11.Text = "2";
             this.label11.Click += new System.EventHandler(this.Box_Click);
             this.label11.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -393,9 +393,9 @@
             this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label12.Location = new System.Drawing.Point(382, 138);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(44, 51);
+            this.label12.Size = new System.Drawing.Size(46, 51);
             this.label12.TabIndex = 25;
-            this.label12.Text = "  ";
+            this.label12.Text = "4";
             this.label12.Click += new System.EventHandler(this.Box_Click);
             this.label12.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -408,7 +408,7 @@
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(46, 51);
             this.label13.TabIndex = 24;
-            this.label13.Text = "8";
+            this.label13.Text = "1";
             this.label13.Click += new System.EventHandler(this.Box_Click);
             this.label13.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -484,9 +484,9 @@
             this.label19.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label19.Location = new System.Drawing.Point(498, 199);
             this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(46, 51);
+            this.label19.Size = new System.Drawing.Size(44, 51);
             this.label19.TabIndex = 36;
-            this.label19.Text = "5";
+            this.label19.Text = "  ";
             this.label19.Click += new System.EventHandler(this.Box_Click);
             this.label19.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -536,9 +536,9 @@
             this.label23.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label23.Location = new System.Drawing.Point(261, 199);
             this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(46, 51);
+            this.label23.Size = new System.Drawing.Size(44, 51);
             this.label23.TabIndex = 32;
-            this.label23.Text = "3";
+            this.label23.Text = "  ";
             this.label23.Click += new System.EventHandler(this.Box_Click);
             this.label23.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -575,9 +575,9 @@
             this.label26.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label26.Location = new System.Drawing.Point(81, 199);
             this.label26.Name = "label26";
-            this.label26.Size = new System.Drawing.Size(44, 51);
+            this.label26.Size = new System.Drawing.Size(46, 51);
             this.label26.TabIndex = 29;
-            this.label26.Text = "  ";
+            this.label26.Text = "9";
             this.label26.Click += new System.EventHandler(this.Box_Click);
             this.label26.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -588,9 +588,9 @@
             this.label27.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label27.Location = new System.Drawing.Point(22, 199);
             this.label27.Name = "label27";
-            this.label27.Size = new System.Drawing.Size(44, 51);
+            this.label27.Size = new System.Drawing.Size(46, 51);
             this.label27.TabIndex = 28;
-            this.label27.Text = "  ";
+            this.label27.Text = "3";
             this.label27.Click += new System.EventHandler(this.Box_Click);
             this.label27.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -603,7 +603,7 @@
             this.label28.Name = "label28";
             this.label28.Size = new System.Drawing.Size(46, 51);
             this.label28.TabIndex = 45;
-            this.label28.Text = "3";
+            this.label28.Text = "7";
             this.label28.Click += new System.EventHandler(this.Box_Click);
             this.label28.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -640,9 +640,9 @@
             this.label31.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label31.Location = new System.Drawing.Point(320, 259);
             this.label31.Name = "label31";
-            this.label31.Size = new System.Drawing.Size(44, 51);
+            this.label31.Size = new System.Drawing.Size(46, 51);
             this.label31.TabIndex = 42;
-            this.label31.Text = "  ";
+            this.label31.Text = "3";
             this.label31.Click += new System.EventHandler(this.Box_Click);
             this.label31.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -681,7 +681,7 @@
             this.label34.Name = "label34";
             this.label34.Size = new System.Drawing.Size(46, 51);
             this.label34.TabIndex = 39;
-            this.label34.Text = "6";
+            this.label34.Text = "1";
             this.label34.Click += new System.EventHandler(this.Box_Click);
             this.label34.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -707,7 +707,7 @@
             this.label36.Name = "label36";
             this.label36.Size = new System.Drawing.Size(46, 51);
             this.label36.TabIndex = 37;
-            this.label36.Text = "9";
+            this.label36.Text = "8";
             this.label36.Click += new System.EventHandler(this.Box_Click);
             this.label36.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -718,9 +718,9 @@
             this.label37.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label37.Location = new System.Drawing.Point(498, 319);
             this.label37.Name = "label37";
-            this.label37.Size = new System.Drawing.Size(44, 51);
+            this.label37.Size = new System.Drawing.Size(46, 51);
             this.label37.TabIndex = 54;
-            this.label37.Text = "  ";
+            this.label37.Text = "3";
             this.label37.Click += new System.EventHandler(this.Box_Click);
             this.label37.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -731,9 +731,9 @@
             this.label38.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label38.Location = new System.Drawing.Point(441, 319);
             this.label38.Name = "label38";
-            this.label38.Size = new System.Drawing.Size(44, 51);
+            this.label38.Size = new System.Drawing.Size(46, 51);
             this.label38.TabIndex = 53;
-            this.label38.Text = "  ";
+            this.label38.Text = "9";
             this.label38.Click += new System.EventHandler(this.Box_Click);
             this.label38.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -770,9 +770,9 @@
             this.label41.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label41.Location = new System.Drawing.Point(261, 319);
             this.label41.Name = "label41";
-            this.label41.Size = new System.Drawing.Size(46, 51);
+            this.label41.Size = new System.Drawing.Size(44, 51);
             this.label41.TabIndex = 50;
-            this.label41.Text = "2";
+            this.label41.Text = "  ";
             this.label41.Click += new System.EventHandler(this.Box_Click);
             this.label41.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -783,9 +783,9 @@
             this.label42.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label42.Location = new System.Drawing.Point(202, 319);
             this.label42.Name = "label42";
-            this.label42.Size = new System.Drawing.Size(46, 51);
+            this.label42.Size = new System.Drawing.Size(44, 51);
             this.label42.TabIndex = 49;
-            this.label42.Text = "1";
+            this.label42.Text = "  ";
             this.label42.Click += new System.EventHandler(this.Box_Click);
             this.label42.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -798,7 +798,7 @@
             this.label43.Name = "label43";
             this.label43.Size = new System.Drawing.Size(46, 51);
             this.label43.TabIndex = 48;
-            this.label43.Text = "3";
+            this.label43.Text = "6";
             this.label43.Click += new System.EventHandler(this.Box_Click);
             this.label43.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -822,9 +822,9 @@
             this.label45.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label45.Location = new System.Drawing.Point(22, 319);
             this.label45.Name = "label45";
-            this.label45.Size = new System.Drawing.Size(46, 51);
+            this.label45.Size = new System.Drawing.Size(44, 51);
             this.label45.TabIndex = 46;
-            this.label45.Text = "8";
+            this.label45.Text = "  ";
             this.label45.Click += new System.EventHandler(this.Box_Click);
             this.label45.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -913,9 +913,9 @@
             this.label52.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label52.Location = new System.Drawing.Point(141, 379);
             this.label52.Name = "label52";
-            this.label52.Size = new System.Drawing.Size(44, 51);
+            this.label52.Size = new System.Drawing.Size(46, 51);
             this.label52.TabIndex = 57;
-            this.label52.Text = "  ";
+            this.label52.Text = "7";
             this.label52.Click += new System.EventHandler(this.Box_Click);
             this.label52.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -928,7 +928,7 @@
             this.label53.Name = "label53";
             this.label53.Size = new System.Drawing.Size(46, 51);
             this.label53.TabIndex = 56;
-            this.label53.Text = "8";
+            this.label53.Text = "5";
             this.label53.Click += new System.EventHandler(this.Box_Click);
             this.label53.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -939,9 +939,9 @@
             this.label54.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label54.Location = new System.Drawing.Point(22, 379);
             this.label54.Name = "label54";
-            this.label54.Size = new System.Drawing.Size(44, 51);
+            this.label54.Size = new System.Drawing.Size(46, 51);
             this.label54.TabIndex = 55;
-            this.label54.Text = "  ";
+            this.label54.Text = "4";
             this.label54.Click += new System.EventHandler(this.Box_Click);
             this.label54.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -965,9 +965,9 @@
             this.label56.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label56.Location = new System.Drawing.Point(441, 439);
             this.label56.Name = "label56";
-            this.label56.Size = new System.Drawing.Size(46, 51);
+            this.label56.Size = new System.Drawing.Size(44, 51);
             this.label56.TabIndex = 71;
-            this.label56.Text = "3";
+            this.label56.Text = "  ";
             this.label56.Click += new System.EventHandler(this.Box_Click);
             this.label56.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -1017,9 +1017,9 @@
             this.label60.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label60.Location = new System.Drawing.Point(202, 439);
             this.label60.Name = "label60";
-            this.label60.Size = new System.Drawing.Size(44, 51);
+            this.label60.Size = new System.Drawing.Size(46, 51);
             this.label60.TabIndex = 67;
-            this.label60.Text = "  ";
+            this.label60.Text = "6";
             this.label60.Click += new System.EventHandler(this.Box_Click);
             this.label60.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -1030,9 +1030,9 @@
             this.label61.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label61.Location = new System.Drawing.Point(141, 439);
             this.label61.Name = "label61";
-            this.label61.Size = new System.Drawing.Size(44, 51);
+            this.label61.Size = new System.Drawing.Size(46, 51);
             this.label61.TabIndex = 66;
-            this.label61.Text = "  ";
+            this.label61.Text = "3";
             this.label61.Click += new System.EventHandler(this.Box_Click);
             this.label61.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -1056,9 +1056,9 @@
             this.label63.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label63.Location = new System.Drawing.Point(22, 439);
             this.label63.Name = "label63";
-            this.label63.Size = new System.Drawing.Size(46, 51);
+            this.label63.Size = new System.Drawing.Size(44, 51);
             this.label63.TabIndex = 64;
-            this.label63.Text = "4";
+            this.label63.Text = "  ";
             this.label63.Click += new System.EventHandler(this.Box_Click);
             this.label63.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -1069,9 +1069,9 @@
             this.label64.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label64.Location = new System.Drawing.Point(498, 495);
             this.label64.Name = "label64";
-            this.label64.Size = new System.Drawing.Size(44, 51);
+            this.label64.Size = new System.Drawing.Size(46, 51);
             this.label64.TabIndex = 81;
-            this.label64.Text = "  ";
+            this.label64.Text = "2";
             this.label64.Click += new System.EventHandler(this.Box_Click);
             this.label64.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -1108,9 +1108,9 @@
             this.label67.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label67.Location = new System.Drawing.Point(320, 495);
             this.label67.Name = "label67";
-            this.label67.Size = new System.Drawing.Size(44, 51);
+            this.label67.Size = new System.Drawing.Size(46, 51);
             this.label67.TabIndex = 78;
-            this.label67.Text = "  ";
+            this.label67.Text = "9";
             this.label67.Click += new System.EventHandler(this.Box_Click);
             this.label67.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -1121,9 +1121,9 @@
             this.label68.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label68.Location = new System.Drawing.Point(261, 495);
             this.label68.Name = "label68";
-            this.label68.Size = new System.Drawing.Size(46, 51);
+            this.label68.Size = new System.Drawing.Size(44, 51);
             this.label68.TabIndex = 77;
-            this.label68.Text = "7";
+            this.label68.Text = "  ";
             this.label68.Click += new System.EventHandler(this.Box_Click);
             this.label68.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -1147,9 +1147,9 @@
             this.label70.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label70.Location = new System.Drawing.Point(141, 495);
             this.label70.Name = "label70";
-            this.label70.Size = new System.Drawing.Size(44, 51);
+            this.label70.Size = new System.Drawing.Size(46, 51);
             this.label70.TabIndex = 75;
-            this.label70.Text = "  ";
+            this.label70.Text = "8";
             this.label70.Click += new System.EventHandler(this.Box_Click);
             this.label70.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -1160,9 +1160,9 @@
             this.label71.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label71.Location = new System.Drawing.Point(81, 495);
             this.label71.Name = "label71";
-            this.label71.Size = new System.Drawing.Size(46, 51);
+            this.label71.Size = new System.Drawing.Size(44, 51);
             this.label71.TabIndex = 74;
-            this.label71.Text = "9";
+            this.label71.Text = "  ";
             this.label71.Click += new System.EventHandler(this.Box_Click);
             this.label71.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
@@ -1173,9 +1173,9 @@
             this.label72.Font = new System.Drawing.Font("Microsoft Sans Serif", 32.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label72.Location = new System.Drawing.Point(22, 495);
             this.label72.Name = "label72";
-            this.label72.Size = new System.Drawing.Size(44, 51);
+            this.label72.Size = new System.Drawing.Size(46, 51);
             this.label72.TabIndex = 73;
-            this.label72.Text = "  ";
+            this.label72.Text = "6";
             this.label72.Click += new System.EventHandler(this.Box_Click);
             this.label72.DoubleClick += new System.EventHandler(this.Box_Click);
             // 
